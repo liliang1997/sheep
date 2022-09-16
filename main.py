@@ -1,14 +1,9 @@
-"""
-主程序类
-@author : lcry
-@time : 2022/9/15 12:00
-"""
+
 import random
 import asyncio
 import requests
 import sys
 # import config
-import httpx
 
 import os
 
