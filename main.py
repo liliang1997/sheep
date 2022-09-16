@@ -9,7 +9,7 @@ import os
 # 以下参数根据自己的需要进行修改：
 SYS_CONFIG = {
     # 获取到的header中t值,必须修改为自己的
-    "header_t": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTQ0MTU1OTYsIm5iZiI6MTY2MzMxMzM5NiwiaWF0IjoxNjYzMzExNTk2LCJqdGkiOiJDTTpjYXRfbWF0Y2g6bHQxMjM0NTYiLCJvcGVuX2lkIjoiIiwidWlkIjozNzMyODAzOCwiZGVidWciOiIiLCJsYW5nIjoiIn0.z9lpwYbVNPZlRoArxEM1PErDTTclv6vZdXdtkh9XacU",
+    "header_t": "",
     # 获取到的header中的user-agent值
     "header_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33",
     # 设定的完成耗时，单位s，默认-1随机表示随机生成1s~1h之内的随机数，设置为正数则为固定
