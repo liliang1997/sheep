@@ -4,7 +4,7 @@ import asyncio
 import requests
 import sys
 # import config
-
+import httpx
 import os
 
 # 以下参数根据自己的需要进行修改：
